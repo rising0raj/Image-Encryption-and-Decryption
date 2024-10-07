@@ -16,7 +16,7 @@ public class Main {
         JFileChooser fileChooser=new JFileChooser();
         fileChooser.showOpenDialog(null);
         File file=fileChooser.getSelectedFile();
-        //file FileInputStream
+        
         try
         {
 
